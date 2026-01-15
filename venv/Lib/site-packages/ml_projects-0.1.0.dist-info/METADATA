@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: ml_projects
+Version: 0.1.0
+Summary: A collection of machine learning projects and experiments.
+Author: Royal Rahul
+Author-email: royal.rahulcse@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
