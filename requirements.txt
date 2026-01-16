@@ -3,4 +3,8 @@ pandas
 numpy
 requests
 seaborn
+sys
+logging
+datetime
+os
 -e .
